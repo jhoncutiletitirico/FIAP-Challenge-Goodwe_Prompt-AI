@@ -2,10 +2,10 @@
 
 ## Integrantes
 
-# Nome: Jhon Cutile Titirico - RM: 571976
-# Nome:
-# Nome:
-# Nome:
+- Nome: Jhon Cutile Titirico - RM: 571976
+- Nome:
+- Nome:
+- Nome:
 
 ## Problema
 Explicação dos problemas da Goodwe
