@@ -1,2 +1,29 @@
 # FIAP-Challenge-Goodwe_Prompt-AI
-Projeto acadêmico do EV Challenge 2026 que propõe um chatbot com IA para auxiliar na gestão de carregadores de veículos elétricos. A solução foca em otimizar comunicação, controle de uso e monitoramento em ambientes como condomínios ou eletropostos.
+
+## Integrantes
+
+# Nome: Jhon Cutile Titirico - RM: 571976
+# Nome:
+# Nome:
+# Nome:
+
+## Problema
+Explicação dos problemas da Goodwe
+
+## Solução
+Explicação de como o chatbot poderia resolver o problema
+
+## Persona
+Quem seria o usuario
+
+## Tecnologias
+Ainda não foi decidico
+
+## Justificativa técnica
+...
+
+## Fluxo do sistema
+Explicação + imagem
+
+## Modelo de Teste
+Perguntas e respostas
