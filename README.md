@@ -3,7 +3,7 @@
 ## Integrantes
 
 - Nome: Jhon Cutile Titirico - RM: 571976
-- Nome:
+- Nome: Felipe Mello Ramalho Cagnin - RM: 569237
 - Nome:
 - Nome:
 
