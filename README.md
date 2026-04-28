@@ -4,7 +4,7 @@
 
 - Nome: Jhon Cutile Titirico - RM: 571976
 - Nome: Felipe Mello Ramalho Cagnin - RM: 569237
-- Nome:
+- Nome: Matheus Aciães Patelli - RM: 567261
 - Nome:
 
 ## Problema
